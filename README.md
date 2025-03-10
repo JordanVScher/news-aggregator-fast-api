@@ -5,5 +5,6 @@
 
 - Python 3
 - FastApi
+- Python-dotenv
 - Pipenv
 - Ruff (Linter)
